@@ -1,0 +1,22 @@
+.footer {
+  background-color: rgb(45, 43, 43);
+  padding: 60px;
+}
+
+.footer > .container {
+  text-align: center;
+}
+
+.social-networks li {
+  display: inline-block;
+  font-size: 30px;
+  padding: 10px;
+}
+
+.trademark p {
+  color: rgb(106, 108, 108);
+}
+
+.trademark i {
+  color: rgb(192, 15, 17);
+}

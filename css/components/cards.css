@@ -1,0 +1,35 @@
+.content {
+  height: 400px;
+}
+
+.content-cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.content-card {
+  height: 250px;
+  width: 200px;
+  border-radius: 3px;
+  text-align: center;
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 0 5px rgb(230,230,230);
+  border: 1px solid rgb(230,230,230);
+}
+
+.content-card img {
+  height: 100px;
+}
+
+.content-card h2 {
+  font-family: bold;
+  text-align: center;
+  font-size: 15px;
+}
+
+.content-card p {
+  font-size: 15px;
+  text-align: center;
+  color: rgb(200, 200, 200);
+}
